@@ -11,6 +11,7 @@ public class BajajTest {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.bajajauto.com/");
 		Reporter.log("Bajaj Launched",true);
+		Syetem.out.println("code change by github");
 		
 		
 	}
